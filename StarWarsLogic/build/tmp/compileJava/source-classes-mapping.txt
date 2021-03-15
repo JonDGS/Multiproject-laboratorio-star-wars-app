@@ -1,0 +1,8 @@
+models/GalacticCitizen.java
+ models.GalacticCitizen
+utils/JsonParser.java
+ utils.JsonParser
+connector/ApiCaller.java
+ connector.ApiCaller
+Main.java
+ Main
